@@ -10,7 +10,7 @@ describe("Ticket",function(){
     expect(testTicket.fullInfo()).to.equal("day, old, senior");
   });
   it("return the price of the ticket", function(){
-    var testTicket = new Ticket("day", "old", "senior");
-    expect(testTicket.ticketPrice()).to.equal(5);
+    var testTicket = new Ticket("evening", "old", "reg");
+    expect(testTicket.ticketPrice()).to.equal(11);
   });
 });
