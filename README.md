@@ -1,6 +1,6 @@
 # _Movie Ticket_
 
-#### _This program produces a movie ticket price based on user preference inputs., 01/26/2016_
+#### _This program produces a movie ticket price, based on user preference inputs., 01/26/2016_
 
 #### By _**Cassandra Culkins & Mao Thygesen**_
 
